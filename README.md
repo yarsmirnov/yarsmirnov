@@ -1,6 +1,6 @@
 ### Holla
 
-My name's Yaroslav, but you can also call me Ray (if we are friends and my name pronunciation makes you suffer :) ).
+My name's Yaroslav.
 
 I'm currenlty learning front-end web development, espessially a11y and best practices.
 I like convenient and beautiful websites and want to be able doing another one by myself. Also I want to expand my skills in SPA, animation and WebGL.
